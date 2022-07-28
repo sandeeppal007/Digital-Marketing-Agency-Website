@@ -33,7 +33,8 @@ div{
 > ### About More
 ⚠️ Website are not responsive but ASAP i make them responsive.
 
-⚠️ Website was not complete complete website comes later days.
+⚠️ Website was not complete all the feature of
+website comes later days.
 
 🔁 Update comes in future 
 
