@@ -2,7 +2,7 @@
 ![welcome](https://img.shields.io/badge/Hello-Welcome-brightgreen)
 
 > # I am Sandeep Pal 🙏
-👉 This is my third peoject on HTML and CSS.
+👉 This is my fourth project on HTML and CSS.
 
 👉 Digital Marketing Agency Website
 
